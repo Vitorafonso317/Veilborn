@@ -1,0 +1,9 @@
+{
+    "volume": 0.7,
+    "resolution": {
+        "width": 800,
+        "height": 600
+    },
+    "fullscreen": false,
+    "difficulty": "normal"
+}
